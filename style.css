@@ -1,0 +1,29 @@
+/* page 1 */
+
+.container{
+    margin: 3rem;
+}
+.input{
+    padding: 1rem;
+    border: 1px solid black;
+    border-radius: 4%;
+}
+#Submit{
+    padding: 1rem;
+    color: white;
+    background-color: rgb(38, 134, 38);
+    border-radius: 4%;
+}
+
+/* page 2 */
+.text-field{
+    padding: 1rem;
+    border: 1px solid black;
+    border-radius: 4%;
+}
+.submit{
+    padding: 0.6rem;
+    color: white;
+    background-color: rgb(38, 134, 38);
+    border-radius: 4%;
+}
